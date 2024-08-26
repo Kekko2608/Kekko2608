@@ -29,9 +29,9 @@
 - Corso seguito ---> **Full-stack Developer**
 
 ## 📫 Contatti
-- [LinkedIn](https://www.linkedin.com/in/francesco-pisu-9a4478325/)
-- [Email](francesco.pisu.94@tiscali.it)
-- [Discord](kekko2608)
+- LinkedIn: 🔗 --- https://www.linkedin.com/in/francesco-pisu-9a4478325/
+- Email: 📧 --- francesco.pisu.94@tiscali.it
+- Discord: 💬 --- kekko2608
 <!--
 **Kekko2608/Kekko2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
