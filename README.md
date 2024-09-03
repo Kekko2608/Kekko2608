@@ -1,3 +1,4 @@
+!(https://github.com/Kekko2608/Kekko2608/blob/main/Francesco%20Pisu.png) 
 # 👋 Ciao, sono Francesco Pisu !
 ### Junior Full Stack Developer
 
